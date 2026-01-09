@@ -1,5 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Satish Ashok Dadas</h1>
+<h3 align="center">A passionate developer in Frontend and Backend & Problem Solver</h3>
 I am a Full-Stack Developer specializing in Java and Flutter, with experience building scalable web and mobile applications. My work focuses on writing clean, maintainable code and delivering solutions that balance performance, usability, and business impact.<br><br>Alongside development, I am currently expanding my expertise in Data Science, exploring machine learning, data analytics, and AI-driven problem solving. This unique combination of skills enables me to build data-powered applications end-to-end—from backend architecture and APIs to mobile UI and predictive insights.<br><br>I enjoy solving real-world challenges, collaborating with teams, and continuously learning new technologies to stay ahead in a fast-evolving tech landscape.
 
 
